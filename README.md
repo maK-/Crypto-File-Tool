@@ -1,4 +1,4 @@
 Crypto-File-Tool
 ================
 
-This was developed to meet the specific requirements of ny first assigment in my Cryptography module.
+This was developed to meet the specific requirements of the first assigment in my Cryptography module.
